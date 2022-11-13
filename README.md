@@ -14,7 +14,9 @@
 <div>
 <p>
 
-This contains two seperate projects, one for the Main Controller [Arduino](https://www.arduino.cc/) and the other for the Power Protection Unit [Raspberry Pi](https://www.raspberrypi.org/). For the main board, code is written in [Arduino](https://www.arduino.cc/reference/en/) using [Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows) and for the power protection unit, the code is written in [C](https://www.python.org/) using [Atmel Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio).
+This contains two seperate projects, one for the Main Controller and the other for the Power Protection Unit. For the main board, code is written in [Arduino](https://www.arduino.cc/reference/en/) using [Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows) and for the power protection unit, the code is written in [C](https://www.python.org/) using [Atmel Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio).
 
 </p>
 </div>
+
+<!-- include image -->
