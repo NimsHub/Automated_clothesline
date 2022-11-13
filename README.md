@@ -4,7 +4,7 @@
 
 ![Arduino](https://img.icons8.com/fluency/48/null/arduino.png)
 ![C](https://img.icons8.com/color/48/null/c-programming.png)
- ![Device](https://github.com/Nims98/Automated_clothesline/blob/main/Device.jpg?raw=true)
+
 
 </div>
 <p>
@@ -20,4 +20,4 @@ This contains two seperate projects, one for the Main Controller and the other f
 </p>
 </div>
 
-<!-- include image -->
+ ![Device](https://github.com/Nims98/Automated_clothesline/blob/main/Device.jpg?raw=true)
