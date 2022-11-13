@@ -30,9 +30,5 @@ Device Image
 </div>
 
 <p>
-The device Fold in and out based on the measured environmental conditions by the sensors 
+The device Fold in and out based on the measured environmental conditions by the sensors. 
 </p>
-
-
-
-
