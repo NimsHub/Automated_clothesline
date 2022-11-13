@@ -52,4 +52,4 @@ Mkfile.old
 dkms.conf
 
 # Debug
-/Debug/*
+Power Protection Unit/Power Protection Unit/Debug/*
