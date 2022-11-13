@@ -4,6 +4,7 @@
 
 ![Arduino](https://img.icons8.com/fluency/48/null/arduino.png)
 ![C](https://img.icons8.com/color/48/null/c-programming.png)
+ ![imge](https://github.com/Nims98/Automated_clothesline/blob/main/Device.jpg?raw=true)
 
 </div>
 <p>
